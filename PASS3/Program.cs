@@ -53,7 +53,7 @@ namespace PASS3
                     Console.WriteLine(i);
                 }
             }
-
+        
             // Stops the stop watch, and outputs the time
             stopWatch.Stop();
             Console.WriteLine(GetTimeOutput(stopWatch));
